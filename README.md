@@ -1,5 +1,5 @@
 # Android
-môn Nhập môn phát triển ứng dụng trên 
+Môn Nhập môn phát triển ứng dụng trên thiết bị di động
 Nhóm 8 gồm 4 thành viên:
 + Triệu Khánh Quang
 + Nguyễn Văn Tấn Quân
